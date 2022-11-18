@@ -1,0 +1,6 @@
+---
+applications:
+ - name: GetStartedPython
+   path: ./app_ibm.py
+  
+   memory: 128M
